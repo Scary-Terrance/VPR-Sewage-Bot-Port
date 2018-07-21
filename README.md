@@ -2,6 +2,4 @@
 
 This is a port of the VPR sewage bot to python3 with a built in python controller in the works.
 
-#Questions?
-
-Get in touch! [@sarambsimon](http://twitter.com/sarambsimon)
+It will be running on a new twitter handle TBA.
